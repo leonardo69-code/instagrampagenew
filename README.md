@@ -1,2 +1,3 @@
 # instagrampagenew
-Projeto Instagram
+<<<<<<< HEAD
+Era uma vez
